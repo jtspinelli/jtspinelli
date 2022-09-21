@@ -4,8 +4,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@jonathanspinelli.com) [![Email](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_jonathanspinelli) 
 
 
-<br>
-
 
 ### Sou Biólogo, Músico e apaixonado por Tecnologia. 
 
@@ -31,24 +29,15 @@
 <h2 style="border-bottom: 1px solid rgb(90, 90, 90);"> Sobre mim <img src = "https://media.giphy.com/media/qTEYp8Gdjp695k8Mns/giphy.gif" width = 60px></h2>
 
  
-### 👨‍🎓 Licenciado em Ciências Biológicas.
+ 👨‍🎓 Licenciado em Ciências Biológicas.
 
-<br>
+ 👨‍🎓 Bacharel e Mestre em Música.
 
-### 👨‍🎓 Bacharel e Mestre em Música.
+ 💻 Estudo <b>Desenvolvimento Web Full Stack</b> na [GrowDev](https://www.growdev.com.br/) .
 
-<br>
+💼 <b>Experiências profissionais:</b> Ensinei música para diversos públicos, em Universidade (UFRGS), Instituto Federal (IFRS), Escolas de Música e para alunos particulares.
 
-
-### 💻 Estudo <b>Desenvolvimento Web Full Stack</b> na [GrowDev](https://www.growdev.com.br/) .
-
-<br>
-
-### 💼 <b>Experiências profissionais:</b> Ensinei música para diversos públicos, em Universidade (UFRGS), Instituto Federal (IFRS), Escolas de Música e para alunos particulares.
-
-<br>
-
-### 🎮 <b>Hobbies:</b> nas horas vagas gosto de jogar videogame, assistir séries e encontrar os amigos.
+🎮 <b>Hobbies:</b> nas horas vagas gosto de jogar videogame, assistir séries e encontrar os amigos.
 
 <br>
 
