@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Seja+bem-vindo+ao+meu+perfil+do+GitHub!" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2EA0D2&size=20&lines=Seja+bem-vindo+ao+meu+perfil+do+GitHub!" /></a>
 
 
 <br>
