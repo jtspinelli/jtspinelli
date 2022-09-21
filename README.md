@@ -26,6 +26,8 @@
 
 <br>
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jtspinelli&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2 style="border-bottom: 1px solid rgb(90, 90, 90);"> Sobre mim <img src = "https://media.giphy.com/media/qTEYp8Gdjp695k8Mns/giphy.gif" width = 60px></h2>
 
  
