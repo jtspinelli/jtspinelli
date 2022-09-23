@@ -35,7 +35,7 @@
 
  👨‍🎓 Bacharel e Mestre em Música.
 
- 💻 Estudo <b>Desenvolvimento Web Full Stack</b> na [GrowDev](https://www.growdev.com.br/) .
+ 💻 Estudo <b>Desenvolvimento Web Full Stack</b> na [GrowDev](https://www.growdev.com.br/), com foco em React, Node e MongoDB.
 
 💼 <b>Experiências profissionais:</b> Ensinei música para diversos públicos, em Universidade (UFRGS), Instituto Federal (IFRS), Escolas de Música e para alunos particulares.
 
